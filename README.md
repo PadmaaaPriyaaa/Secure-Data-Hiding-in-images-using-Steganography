@@ -7,16 +7,24 @@ Problem Statement :
  
 Technology used :
  Python 3.9 – Programming Language
+ 
  OpenCV – Used for image processing, reading, writing images
+ 
  OS Module – Handles file system operations
+ 
  String Module – For Character processing and generating text-based keys
+ 
  Cryptography Library – For encrypting the hidden data before embedding it
  
 Wow Factors :
  Advanced Security Features
+ 
  Multiple File Support
+ 
  Improved Steganography Techniques
+ 
  Multi-Image Encoding
+ 
  Two Layers of Security
  
 Conclusion :
